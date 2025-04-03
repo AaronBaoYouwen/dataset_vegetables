@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_3712_JPG.rf.87659f5ae1a43788813c556922d676a8.jpg</filename>
+	<path>IMG_3712_JPG.rf.87659f5ae1a43788813c556922d676a8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>556</xmax>
+			<ymin>194</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

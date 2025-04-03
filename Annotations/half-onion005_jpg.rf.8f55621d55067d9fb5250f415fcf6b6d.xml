@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>half-onion005_jpg.rf.8f55621d55067d9fb5250f415fcf6b6d.jpg</filename>
+	<path>half-onion005_jpg.rf.8f55621d55067d9fb5250f415fcf6b6d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>565</xmax>
+			<ymin>44</ymin>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

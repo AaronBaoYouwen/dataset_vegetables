@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>deformity-bell-pepper_77_jpg.rf.ee987f1415783bc773f94ec2c6526da5.jpg</filename>
+	<path>deformity-bell-pepper_77_jpg.rf.ee987f1415783bc773f94ec2c6526da5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bell_pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>216</xmin>
+			<xmax>493</xmax>
+			<ymin>43</ymin>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>

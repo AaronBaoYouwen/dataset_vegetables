@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>800px_COLOURBOX3267700_jpg.rf.a0c3ac3b2ae317e338a844c00bb4e460.jpg</filename>
+	<path>800px_COLOURBOX3267700_jpg.rf.a0c3ac3b2ae317e338a844c00bb4e460.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>539</xmax>
+			<ymin>170</ymin>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

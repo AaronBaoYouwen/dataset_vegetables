@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>green-peppers-2_jpg.rf.6038410a0ede1df46a8ebcda46f76678.jpg</filename>
+	<path>green-peppers-2_jpg.rf.6038410a0ede1df46a8ebcda46f76678.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bell_pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>625</xmax>
+			<ymin>87</ymin>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

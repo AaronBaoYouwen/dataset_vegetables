@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>apples-3860991_1280_jpg.rf.b90e8a58952ee21ddc272d01a6473581.jpg</filename>
+	<path>apples-3860991_1280_jpg.rf.b90e8a58952ee21ddc272d01a6473581.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

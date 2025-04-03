@@ -1,0 +1,1 @@
+cabbage,potato,onion,egg,garlic,carrot,bell_pepper,beet,tomato,eggplant,zucchini,cucumber

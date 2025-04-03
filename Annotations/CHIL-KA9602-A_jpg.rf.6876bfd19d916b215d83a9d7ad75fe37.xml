@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>CHIL-KA9602-A_jpg.rf.6876bfd19d916b215d83a9d7ad75fe37.jpg</filename>
+	<path>CHIL-KA9602-A_jpg.rf.6876bfd19d916b215d83a9d7ad75fe37.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_7609_jpg.rf.7f183bf5517896168eeba0bbc6c4cfc3.jpg</filename>
+	<path>IMG_7609_jpg.rf.7f183bf5517896168eeba0bbc6c4cfc3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bell_pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>290</xmax>
+			<ymin>130</ymin>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

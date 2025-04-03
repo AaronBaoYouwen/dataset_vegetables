@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>appetite-1239054_1280_jpg.rf.c52af1bfc9e826a0e1f94a3d12ccd703.jpg</filename>
+	<path>appetite-1239054_1280_jpg.rf.c52af1bfc9e826a0e1f94a3d12ccd703.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

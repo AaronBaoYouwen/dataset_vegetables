@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>banana-pepper-5556358_1280_jpg.rf.74ec3cfd35dcb80c6abdd1e62c6d6537.jpg</filename>
+	<path>banana-pepper-5556358_1280_jpg.rf.74ec3cfd35dcb80c6abdd1e62c6d6537.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

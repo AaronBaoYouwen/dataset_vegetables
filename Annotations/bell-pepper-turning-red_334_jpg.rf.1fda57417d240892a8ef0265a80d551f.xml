@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bell-pepper-turning-red_334_jpg.rf.1fda57417d240892a8ef0265a80d551f.jpg</filename>
+	<path>bell-pepper-turning-red_334_jpg.rf.1fda57417d240892a8ef0265a80d551f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bell_pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>528</xmax>
+			<ymin>142</ymin>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

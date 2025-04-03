@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>elle-hughes-666419-unsplash-e1636078746525_jpg.rf.0d35e2b80c1af24cdddd48bc4addab27.jpg</filename>
+	<path>elle-hughes-666419-unsplash-e1636078746525_jpg.rf.0d35e2b80c1af24cdddd48bc4addab27.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

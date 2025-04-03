@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>peppers-316469_1280_jpg.rf.91146c2c3f0414c4e542e632fac25f65.jpg</filename>
+	<path>peppers-316469_1280_jpg.rf.91146c2c3f0414c4e542e632fac25f65.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20191027-Hardneck-Garlic-3_jpg.rf.2500e40f8578cb98d88c68ab25aeca24.jpg</filename>
+	<path>20191027-Hardneck-Garlic-3_jpg.rf.2500e40f8578cb98d88c68ab25aeca24.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>103</xmin>
+			<xmax>365</xmax>
+			<ymin>218</ymin>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

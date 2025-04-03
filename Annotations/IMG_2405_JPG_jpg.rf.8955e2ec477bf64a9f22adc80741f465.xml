@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_2405_JPG_jpg.rf.8955e2ec477bf64a9f22adc80741f465.jpg</filename>
+	<path>IMG_2405_JPG_jpg.rf.8955e2ec477bf64a9f22adc80741f465.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>218</xmin>
+			<xmax>408</xmax>
+			<ymin>299</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

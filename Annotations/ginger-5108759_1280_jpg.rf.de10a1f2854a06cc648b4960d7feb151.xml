@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ginger-5108759_1280_jpg.rf.de10a1f2854a06cc648b4960d7feb151.jpg</filename>
+	<path>ginger-5108759_1280_jpg.rf.de10a1f2854a06cc648b4960d7feb151.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

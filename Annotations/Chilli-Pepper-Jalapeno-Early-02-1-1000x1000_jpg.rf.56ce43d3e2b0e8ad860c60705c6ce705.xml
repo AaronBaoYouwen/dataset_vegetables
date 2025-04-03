@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>Chilli-Pepper-Jalapeno-Early-02-1-1000x1000_jpg.rf.56ce43d3e2b0e8ad860c60705c6ce705.jpg</filename>
+	<path>Chilli-Pepper-Jalapeno-Early-02-1-1000x1000_jpg.rf.56ce43d3e2b0e8ad860c60705c6ce705.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

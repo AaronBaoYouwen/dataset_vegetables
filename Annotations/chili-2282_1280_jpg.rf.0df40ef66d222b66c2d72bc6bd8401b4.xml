@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>chili-2282_1280_jpg.rf.0df40ef66d222b66c2d72bc6bd8401b4.jpg</filename>
+	<path>chili-2282_1280_jpg.rf.0df40ef66d222b66c2d72bc6bd8401b4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>onion020_jpg.rf.be55125115bff79f7432e12daa7bf598.jpg</filename>
+	<path>onion020_jpg.rf.be55125115bff79f7432e12daa7bf598.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>496</xmax>
+			<ymin>100</ymin>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

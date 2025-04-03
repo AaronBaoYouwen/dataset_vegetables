@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>fruit-apple-banana-orange_60_jpg.rf.2c23028ef78f929903dcbf6a40a54d2e.jpg</filename>
+	<path>fruit-apple-banana-orange_60_jpg.rf.2c23028ef78f929903dcbf6a40a54d2e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
